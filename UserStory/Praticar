@@ -1,0 +1,17 @@
+Exemplo sobre a Fintech Nubank
+
+Eu como possível cliente do nubank
+Quero um banco online 
+Para realizar as minhas transações financeiras
+
+Descrição
+Quero que seja desenvolvido um banco online para poder realizar todas as minhas atividades financeiras
+
+Critérios de Aceite 
+input email
+input senha
+
+Regras de negócio 
+para o login funcionar ter realizado o cadastro previamente - é obrigatório
+se o campo input email, input senha estiver em branco apresentar a mensagem "Insira email e senha"
+se o campo input email e input senha estiverem errados apresentar a mensagem "Dados incorretos"
