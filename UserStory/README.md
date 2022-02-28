@@ -9,14 +9,17 @@ Aluno: Fulano
 [Para] para levar acessibilidade de estudos e leitura dentro dessa realidade de pandemia
 
 
-Descrição: Quero que seja desenvolvido uma Biblioteca online sendo ela de forma simplificada podendo ser
+## Descrição
+
+Quero que seja desenvolvido uma Biblioteca online sendo ela de forma simplificada podendo ser
 acessada de forma fácil, O usuário deve conseguir realizar a autenticação na plataforma através do CPF e senha,
 para aqueles que não tem cadastro o usuário poderá criar um através de um link "criar cadastro", quero que dentro
 disso exista também um botão para acesso como visitante para antes de ser criado um cadastro o usuário possa ver
 tudo que a biblioteca pode oferecer caso ele venha se cadastrar.
 
 
-Critérios de aceite:
+## Critérios de aceite
+
 input cpf
 input senha
 button "continuar"
@@ -24,7 +27,8 @@ link "criar cadastro"
 button "acessar como visitante"
 
 
-Regras de negócio:
+## Regras de negócio
+
 se o campo imput cpf ao ser preenchido com um cpf não cadastrado apresentar a mensagem " cpf não cadastrado"
 se o campo imput cpf estiver em branco apresentar a mensagem " todos os campos devem ser preenchidos"
 ao ser clicado o button "continuar" o usuário ser direcionado ao acesso dos livros da Biblioteca
