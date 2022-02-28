@@ -11,7 +11,7 @@ Critérios de Aceite
 input email
 input senha
 
-Regras de negócio 
+Regras de negócio (Se eu sei as minhas regras eu tenho o meu plano de teste)
 para o login funcionar ter realizado o cadastro previamente - é obrigatório
 se o campo input email, input senha estiver em branco apresentar a mensagem "Insira email e senha"
 se o campo input email e input senha estiverem errados apresentar a mensagem "Dados incorretos"
