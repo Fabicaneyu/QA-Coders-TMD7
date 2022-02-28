@@ -1,12 +1,11 @@
 # Avaliação do Exercício de Escrita de História de Usuário
 
 
-## Exemplo de Correção
+## Exemplo de Correção <br>
 
-Aluno: Fulano
-[EU] como P.O
-[Quero] que seja desenvolvido uma Biblioteca Online
-[Para] para levar acessibilidade de estudos e leitura dentro dessa realidade de pandemia
+[EU] como P.O <br>
+[Quero] que seja desenvolvido uma Biblioteca Online <br> 
+[Para] para levar acessibilidade de estudos e leitura dentro dessa realidade de pandemia <br> 
 
 
 ## Descrição
@@ -35,3 +34,6 @@ ao ser clicado o button "continuar" o usuário ser direcionado ao acesso dos liv
 ao ser clicado no link "criar cadastro" o usuário ser direcionado a um formulário de cadastro
 ao ser clicado o button "acessar como visitante" o usuário ser direcionado ao acesso aos títulos dos livros da
 Biblioteca porem com restrição de leitura.
+
+
+Documentação de apoio: https://odonodoproduto.com/user-story-historia-de-usuario/
